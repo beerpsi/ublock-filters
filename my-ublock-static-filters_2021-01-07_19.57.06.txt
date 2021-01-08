@@ -1,0 +1,3 @@
+*##^script:has-text(!window.adsbygoogle)
+*##^script:has-text(!window.adsbygoogle.loaded)
+
